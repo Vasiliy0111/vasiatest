@@ -6,6 +6,10 @@ echo "up to 80 meters";
 echo "up to 100 meters";
 echo "Hello";
 echo "Hi";
+<<<<<<< HEAD
 echo "Hi man";
 echo "How is it going?";
+=======
+echo "Hi buddy";
+>>>>>>> fix1
 ?>
