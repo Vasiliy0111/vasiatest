@@ -6,5 +6,5 @@ echo "up to 80 meters";
 echo "up to 100 meters";
 echo "Hello";
 echo "Hi";
-echo "Hi man";
+echo "Hi buddy";
 ?>
