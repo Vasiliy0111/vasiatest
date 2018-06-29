@@ -5,7 +5,7 @@ echo "up to 70 meters";
 echo "up to 80 meters";
 echo "up to 100 meters";
 echo "Hello";
-echo "Hi";
+echo "H";
 <<<<<<< HEAD
 echo "Hi man";
 echo "How is it going?";
